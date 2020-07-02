@@ -256,7 +256,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/data-table" class="nav-link">
+                <a href="/data-tables" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>DataTables</p>
                 </a>

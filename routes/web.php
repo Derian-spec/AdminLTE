@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('layouts.items.index');
 });
 
-Route::get('/data-table', function () {
+Route::get('/data-tables', function () {
     return view('layouts.items.dataTable');
 });
 
